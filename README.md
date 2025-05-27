@@ -23,7 +23,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
+![calila-prog GitHub stats](https://github-readme-stats.vercel.app/api?username=calila-prog&show_icons=true&theme=transparent)
 ---
  📫 **Vamos Conectar!**  
 
