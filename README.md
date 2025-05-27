@@ -25,10 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
-
- 📊 **GitHub Stats**  
-![calila-prog GitHub stats](https://github-readme-stats.vercel.app/api?username=calila-prog&show_icons=true&theme=radical)
----
  📫 **Vamos Conectar!**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calilamuniz/)
