@@ -33,3 +33,7 @@
 ---
 
 ⭐ **Curiosidade:** Apaixonada por encontrar bugs antes dos usuários! 🐞💡  
+
+<img src="https://raw.githubusercontent.com/calila-prog/calila-prog/output/snake.svg" alt="Snake animation" />
+
+###
