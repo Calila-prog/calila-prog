@@ -24,9 +24,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ---
-<img src="https://raw.githubusercontent.com/calila-prog/calila-prog/output/snake.svg" alt="Snake animation" />
 
-###
 ---
  📫 **Vamos Conectar!**  
 
